@@ -18,5 +18,4 @@ I'm Adegboyega, and I'm a data scientist who also does content on data science a
 3. Microsoft Excel
 4. Google Analytics
 
-#
 
