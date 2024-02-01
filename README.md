@@ -8,6 +8,7 @@ I'm Adegboyega, a data scientist who also does content on data science and analy
 2. Python(Pandas, Numpy, Matplotlib, SciPy, Sklearn, Statsmodels)
 3. DAX
 4. M
+5. HTML
 
 # Frameworks
 1. TensorFlow
@@ -19,5 +20,6 @@ I'm Adegboyega, a data scientist who also does content on data science and analy
 2. Tableau
 3. Microsoft Excel
 4. Google Analytics
+5. MongoDB
 
 
