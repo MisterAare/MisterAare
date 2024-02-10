@@ -4,22 +4,22 @@ I'm Adegboyega, a data scientist who also does content on data science and analy
 
 # Programming Langauge 
 
-1. SQL
-2. Python(Pandas, Numpy, Matplotlib, SciPy, Sklearn, Statsmodels)
-3. DAX
-4. M
-5. HTML
+- SQL
+- Python(Pandas, Numpy, Matplotlib, SciPy, Sklearn, Statsmodels)
+- DAX
+- M
+- HTML
 
 # Frameworks
-1. TensorFlow
-2. Scikit-Learn
-3. Flask
+- TensorFlow
+- Scikit-Learn
+- Flask
 
 # Data Science Tools
-1. Microsoft Power BI
-2. Tableau
-3. Microsoft Excel
-4. Google Analytics
-5. MongoDB
+- Microsoft Power BI
+- Tableau
+- Microsoft Excel
+- Google Analytics
+- MongoDB
 
 
