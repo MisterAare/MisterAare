@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adegboyega Aare, a data scientist with a keen interest in building machine learning algorithms, tracking and deploying models, statistical analysis, relational databases and non-relational databases, and data visualization. I also create content on data science and analysis for beginners and professionals. 
+I'm Boyega Aare, a data scientist interested in building machine learning algorithms, tracking and deploying models, statistical analysis, relational and non-relational databases, and data visualization. I also create content on data science and analysis for beginners and professionals. 
 
 I enjoy working with the following; 
 
